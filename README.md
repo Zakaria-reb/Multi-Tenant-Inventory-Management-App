@@ -30,6 +30,8 @@ Le système se compose de deux parties principales :
 <p align="center">
   <img width="1217" height="849" alt="Image" src="https://github.com/user-attachments/assets/dd0151ac-fb14-480f-93b7-bbe1e038a57e" />
 </p>
+
+##
 - `backend/` : API REST sécurisée en Spring Boot
 - `frontend/` : application client construite avec React.js
 - `frontend/src/` : composants React, pages, services et styles
