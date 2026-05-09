@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/ccc9fdd6-cefa-4d98-a2ce-c587088ed639" width="700" alt="Inventera logo" />
 </p>
 
-## 🔹 Aperçu du projet
+## Aperçu du projet
 **Inventera** est une application de gestion d’inventaire multi-tenant conçue pour aider les entreprises à suivre, gérer et analyser leurs stocks, produits et partenaires commerciaux au sein d’une plateforme centralisée.
 
 Le système se compose de deux parties principales :
@@ -13,7 +13,7 @@ Le système se compose de deux parties principales :
 
 ---
 
-## 🚀 Fonctionnalités principales
+## Fonctionnalités principales
 - Gestion des produits et des catégories
 - Gestion des partenaires commerciaux et des entreprises
 - Création et suivi des transactions d’achat/vente
@@ -26,7 +26,7 @@ Le système se compose de deux parties principales :
 
 ---
 
-## 🧱 Architecture du projet
+## Architecture du projet
 - `backend/` : API REST sécurisée en Spring Boot
 - `frontend/` : application client construite avec React.js
 - `frontend/src/` : composants React, pages, services et styles
@@ -34,7 +34,7 @@ Le système se compose de deux parties principales :
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 ### Backend
 - Java 21
 - Spring Boot 3.3.5
@@ -103,7 +103,7 @@ npm start
 
 ---
 
-## ✅ Bonnes pratiques de développement
+## Bonnes pratiques de développement
 - Utiliser Git pour le versioning
 - Séparer les branches par fonctionnalité
 - Valider les schémas et les DTO côté backend
@@ -112,31 +112,18 @@ npm start
 
 ---
 
-## 📝 Notes
+## Notes
 - Ce projet est conçu pour être extensible et peut être adapté à des environnements cloud.
 - La configuration de la base de données se fait via le fichier `application.properties`.
 - Les images se téléchargent en externe via Cloudinary pour optimiser les performances.
 
 ---
 
-## 📁 Structure des dossiers
+## Structure des dossiers
 - `backend/` : service Java Spring Boot
 - `frontend/` : application React
 - `frontend/public/` : ressources statiques
 - `frontend/src/pages/` : pages principales du client
 - `backend/src/main/java/com/phegondev/InventoryMgtSystem/` : code métier backend
-
----
-
-## 💡 Contribution
-Les contributions sont bienvenues :
-1. Créer une issue décrivant le besoin
-2. Ouvrir une branche dédiée
-3. Soumettre une pull request claire avec des tests lorsque c’est possible
-
----
-
-## 📄 Licence
-Ce projet peut être documenté ici selon la licence choisie.
 
 
