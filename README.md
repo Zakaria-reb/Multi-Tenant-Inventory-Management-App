@@ -27,6 +27,9 @@ Le système se compose de deux parties principales :
 ---
 
 ## Architecture du projet
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/ccc9fdd6-cefa-4d98-a2ce-c587088ed639](https://private-user-images.githubusercontent.com/196668765/559752379-6463f53e-ccc4-4e5d-83be-0aa8f8894c8b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgzNTUyNTAsIm5iZiI6MTc3ODM1NDk1MCwicGF0aCI6Ii8xOTY2Njg3NjUvNTU5NzUyMzc5LTY0NjNmNTNlLWNjYzQtNGU1ZC04M2JlLTBhYThmODg5NGM4Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUwOVQxOTI5MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNDU5OWY5MTMyZGUyNzUxMmMwYzI4ZTY5YjRiNDQzY2IxMjNhN2ZlNGE5N2NmNTYyZmMxYmIyZDgxODYxZGQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.tI3MwNzRhSttIDQOChC0HBIYtfGxnncZHEMYoXmNbzQ)" width="700" alt="Inventera logo" />
+</p>
 - `backend/` : API REST sécurisée en Spring Boot
 - `frontend/` : application client construite avec React.js
 - `frontend/src/` : composants React, pages, services et styles
